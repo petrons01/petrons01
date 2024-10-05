@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petrons01
 - 👀 I’m interested in IT's technologies
-- 🌱 I’m currently studying Computer Sccience at University
+- 🌱 I’m currently studying Computer Science at University
 - 📫 How to reach me: look on my Bio
 - ⚡ Fun fact: i'm very interesting to improve the world !!
 
