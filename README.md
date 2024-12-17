@@ -12,7 +12,7 @@ I am a student belonging to the Computer Science bachelor degree course at the U
 ## 🛠️ About me
 - **Program Languages:** Python, Java, C, C++, Go.
 - **Web Development:** HTML, CSS, JavaScript.
-- **Passions:** **Coding** e nuove **IT technologies**. I love exploring new tools, learning programming languages ​​and applying what I study to real projects. 🌟  
+- **Passions:** **Coding** and new **IT technologies**. I love exploring new tools, learning programming languages ​​and applying what I study to real projects. 🌟  
 
 ---
 
